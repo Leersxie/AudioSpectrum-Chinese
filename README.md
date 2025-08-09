@@ -1,2 +1,2 @@
 # AudioSpectrum-Chinese
-此仓库为Ika-Udon的作品的汉化版本
+此仓库为Ika-Udon的AudioSpectrum音频波形图作品的汉化版本，主要为中国使用者提供
