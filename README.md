@@ -1,7 +1,7 @@
 # AudioSpectrum-Chinese
-此仓库为Ika-Udon的AudioSpectrum音频波形图作品的汉化版本，主要为中国使用者提供
+此仓库为Ika-Udon的AudioSpectrum音频波形图作品的汉化以及修改版本，主为中国使用者提供
 
-使用链接：https://leersxie.github.io/AudioSpectrum-Chinese/
+在线使用链接：https://leersxie.github.io/AudioSpectrum-Chinese/
 
 
 2025年8月18日 v2.02  
